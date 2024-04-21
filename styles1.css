@@ -1,0 +1,46 @@
+*{
+ font-family: Arial;
+}
+
+body{
+ background-color: rgba(0,100,250,0.3);
+}
+
+
+.header-class{
+ color: navy;
+ background-color: beige;
+ padding: 20px;
+ border: 5px;
+}
+
+.nav-class{
+ color: green;
+ background-color: beige;
+ border: 5px;
+ padding: 8px;
+}
+
+h2{
+ color: navy;
+}
+
+a{
+ color: navy;
+ font-size: 18px;
+}
+
+form{
+ padding: 10px;
+ background-color: beige;
+ color: navy;
+}
+
+img{
+ background-color: white;
+ border: 5px solid pink;
+}
+
+.invisible{
+    visibility: hidden; 
+}
